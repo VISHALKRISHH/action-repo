@@ -22,5 +22,5 @@ These actions are captured by a GitHub webhook and sent to a Flask-based webhook
 
 ## 🔗 Webhook URL
 
-> Replace with your actual URL:
+> Replace with your actual URL: https://<ngrok-url>/github
 
